@@ -1,0 +1,11 @@
+>git init
+initializing empty repository
+
+>git status
+list all untracked files
+
+>git add
+adding files to staging area
+
+>git commit
+adding files to local repository
